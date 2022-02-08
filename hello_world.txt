@@ -1,2 +1,7 @@
 Hi everyone!
 Im working in branch temp!
+
+create new branch:
+git checkout -b <new-branch-name>
+push new branch:
+git push origin <new-branch-name>
